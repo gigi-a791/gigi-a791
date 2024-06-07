@@ -1,6 +1,13 @@
-## Hi there 👋
+## Axé meu povo 🤞 Sejam bem vindos
 
-<!--
+Meu nome é Giovana Silva
+
+Estou infelizmente (é brincadeira) esudando no Alura 
+
+Estou me desenvolvendo na linguagem JavaScript
+
+E esse espaço é para minha organização e compartilhamento dos meu projetos desenvolvidos aqui 😁
+
 **gigi-a791/gigi-a791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
