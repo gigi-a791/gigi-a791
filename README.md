@@ -2,7 +2,7 @@
 
 Meu nome é Giovana Silva
 
-Estou infelizmente (é brincadeira) esudando no Alura 
+Estou infelizmente (é brincadeira) estudando no Alura 
 
 Estou me desenvolvendo na linguagem JavaScript
 
