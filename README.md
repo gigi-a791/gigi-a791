@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning a desenvolver projetos 
 - 👯 I’m looking to collaborate on aprender mais 
 - 🤔 I’m looking for help with a teacher
-- 💬 Ask me about minha religião e qual chocolate gosto 😁
+- 💬 Ask me about minha religião e qual chocolate eu gosto 😁
 - 📫 How to reach me: Não quero contato com vocês 
 - 😄 Pronouns: ela/dela 
 - ⚡ Fun fact: Sempre quis receber flores...
