@@ -10,14 +10,15 @@ E esse espaço é para minha organização e compartilhamento dos meu projetos d
 
 **gigi-a791/gigi-a791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Alura
-- 🌱 I’m currently learning a desenvolver projetos 
-- 👯 I’m looking to collaborate on aprender mais 
-- 🤔 I’m looking for help with a teacher
-- 💬 Ask me about minha religião e qual chocolate eu gosto 😁
-- 📫 How to reach me: Não quero contato com vocês 
-- 😄 Pronouns: ela/dela 
-- ⚡ Fun fact: Sempre quis receber flores...
+- 🔭 Estou atualmente a trabalhar no Alura
+- Estou atualmente a aprender a desenvolver projetos 
+- 👯 Estou a procura de colaborar no aprender mais 
+- 🤔 Estou à procura de ajuda com um professor
+- 💬 Pergunta-me sobre a minha religião e qual chocolate eu gosto 😁
+- 📫 Como entrar em contacto comigo: Não quero contato com vocês 
+- 😄 Pronomes: ela/dela 
+- Curiosidade: Sempre quis receber flores...
 
+Traduzido com a versão gratuita do tradutor - DeepL.com
+> Escrito por GIOVANA SILVA
